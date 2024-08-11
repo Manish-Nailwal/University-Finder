@@ -4,7 +4,7 @@ This helps to find Colleges and Universities of India.
 # Note
 The GitHub live preview for this project isn’t functioning as expected because GitHub only allows the HTTPS:// protocol for security reasons. Unfortunately, the API used by this project operates on the HTTP:// protocol.
 
-To use this project, please visit the following site: 
+To use this project, please visit the following site: http://devlinkup.free.nf/
 
 The API used in this project is: https://github.com/Hipo/university-domains-list-api  //It is a Repository of the API
 
